@@ -42,7 +42,6 @@
   <li>Proficient with tools like <code>Burp Suite</code>, <code>Nmap</code>, <code>Metasploit</code>, and <code>ffuf</code>.</li>
   <li>Deep understanding of web protocols and technologies such as <code>HTTP</code>, <code>HTTPS</code>, <code>JWT</code>, <code>OAuth</code>, and <code>CORS</code>.</li>
   <li>Solid experience with <code>OWASP Top 10</code> vulnerabilities — from identification to exploitation and mitigation.</li>
-  <li>Skilled in writing detailed <code>security reports</code> with technical analysis and remediation steps.</li>
   <li>Open to new <code>penetration testing opportunities</code> and collaborations in the web security field.</li>
   <li>Always <code>learning</code>, <code>experimenting</code>, and keeping up with the latest vulnerabilities and techniques.</li>
   <li>Fun fact: <code>I break things to understand them – then help secure them</code>.</li>
